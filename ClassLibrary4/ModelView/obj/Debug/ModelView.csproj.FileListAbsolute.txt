@@ -1,0 +1,14 @@
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\bin\Debug\ModelView.exe.config
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\bin\Debug\ModelView.exe
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\bin\Debug\ModelView.pdb
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.csprojResolveAssemblyReference.cache
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.FigureEdit.resources
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.MainForm.resources
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.Properties.Resources.resources
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.csproj.GenerateResource.cache
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.csproj.CoreCompileInputs.cache
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.exe
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.pdb
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\bin\Debug\ClassLibrary4.dll
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\bin\Debug\ClassLibrary4.pdb
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ModelView\obj\Debug\ModelView.csproj.CopyComplete

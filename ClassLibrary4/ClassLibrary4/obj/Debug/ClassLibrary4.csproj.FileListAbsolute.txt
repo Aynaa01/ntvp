@@ -1,0 +1,7 @@
+C:\Users\Эртине\Documents\Visual Studio 2015\Projects\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.csprojResolveAssemblyReference.cache
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.csprojResolveAssemblyReference.cache
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\айнаа\Desktop\4 курс\7 семестр\НТвП\ClassLibrary4\ClassLibrary4\obj\Debug\ClassLibrary4.pdb
